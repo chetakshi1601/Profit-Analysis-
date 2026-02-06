@@ -4,7 +4,8 @@
 This dashboard analyzes profit, investment, and cost distribution across states.
 
 ### 🔹 Dashboard Preview
-![Profit Dashboard](profit_dashboard.png)
+![Profit Dashboard](images/profit_dashboard.png)
+
 
 
 
