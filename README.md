@@ -16,21 +16,15 @@ Key insights were derived by comparing administration, marketing, and R&D expens
 🔹 Key Features
 
 Built interactive Power BI dashboard for profit and cost analysis.
-
 Designed KPIs: Total Profit, Total Investment, Maximum Profit, Average Profit, and ROI.
-
 Analyzed state-wise cost distribution (Administration, Marketing, R&D).
-
 Visualized profit contribution and marketing spend using charts and graphs.
-
 Enabled dynamic filtering by state for deeper analysis.
 
 🔹 Tools & Skills Used
 
 Power BI, DAX, Data Modeling
-
 Data Visualization & Business Intelligence
-
 Excel / CSV Data Processing
 
 
